@@ -1,2 +1,2 @@
 # angular-gitops-poc
-A small basic angular app for a basic gitops setup
+A basic angular app for a basic gitops setup
